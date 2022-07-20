@@ -1,0 +1,60 @@
+
+.sec2{
+    background-color: rgb(221, 201, 201);
+    height: 350px;
+    width: 65%;
+    margin-left: 300px;
+    margin-top: -15px;
+    border-radius: 10px;
+  
+  }
+  
+  .sec2>h2{
+    margin-left: 320px;
+    padding-top: 5px;
+  }
+  
+  
+  .subdiv{
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+  
+  .left{
+    padding-left: 100px;
+    padding-top: 100px;
+  }
+  
+  .right{
+    margin-left: 20px;
+  }
+  
+  input[type=text]{
+    height: 40px;
+    width: 70%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  textarea{
+    height: 100px;
+    width: 70%;
+    margin-top: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    outline: none;
+  }
+  
+  input[type=button]{
+    height: 40px;
+    width: 72%;
+    margin-top: 10px;
+    background-color: brown;
+    color: wheat;
+
+    
+  }
+  
+  
+  
+  
